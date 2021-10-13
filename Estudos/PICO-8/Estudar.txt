@@ -1,0 +1,9 @@
+- A linguagem de programação Lua
+
+- A engine em si
+
+- Pixel art 8bits
+
+- Sound design utilizando pico-8
+
+- Projetos simples
