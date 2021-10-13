@@ -1,0 +1,11 @@
+- Sistema de dados para o projeto semestral.
+
+- Repositório no Github para o projeto.
+
+- Sistema de combate para o projeto
+
+- Sistema de menus
+
+- Sistema de criação de cartas
+
+- Ferramenta para localização/tradução do projeto
